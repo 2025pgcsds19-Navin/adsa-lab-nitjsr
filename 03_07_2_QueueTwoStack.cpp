@@ -1,3 +1,4 @@
+//pop costly
 #include <stdio.h>
 #define size 100
 
@@ -58,4 +59,5 @@ int main() {
     display();
     return 0;
 } 
+
 
